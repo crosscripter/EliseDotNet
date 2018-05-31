@@ -1,0 +1,16 @@
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.exe.config
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.exe
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.pdb
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.pdb
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.csprojResolveAssemblyReference.cache
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.exe
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.pdb
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.exe.config
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.exe
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.CLI.pdb
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\bin\Debug\Elise.pdb
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.csprojResolveAssemblyReference.cache
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.exe
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise.CLI\obj\Debug\Elise.CLI.pdb

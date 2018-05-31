@@ -1,0 +1,12 @@
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\bin\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\bin\Debug\Elise.pdb
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\obj\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\obj\Debug\Elise.pdb
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\obj\Debug\Elise.Properties.Resources.resources
+C:\Users\mikes\Dropbox\Elise.NET\Elise\Elise\obj\Debug\Elise.csproj.GenerateResource.Cache
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\bin\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\bin\Debug\Elise.pdb
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\obj\Debug\Elise.Properties.Resources.resources
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\obj\Debug\Elise.csproj.GenerateResource.Cache
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\obj\Debug\Elise.dll
+C:\Users\mikes\Dropbox\Code\Elise.NET\Elise\Elise\obj\Debug\Elise.pdb

@@ -1,0 +1,35 @@
+https://www.bing.com/translator
+https://www.bing.com/translator/api/Dictionary/Lookup?from=he&to=en&text=המה
+
+{
+    "originalText": "המה",
+    "normalizedSource": "המה",
+    "displaySource": "המה",
+    "from": "he",
+    "to": "en",
+    "items": [
+        [
+            {
+                "normalizedTarget": "what",
+                "displayTarget": "what",
+                "posTag": "PRON",
+                "confidence": 1.0,
+                "prefixWord": "",
+                "backTranslations": [
+                    {
+                        "normalizedText": "מה",
+                        "displayText": "מה",
+                        "numExamples": 15,
+                        "frequencyCount": 75766
+                    },
+                    {
+                        "normalizedText": "המה",
+                        "displayText": "המה",
+                        "numExamples": 3,
+                        "frequencyCount": 12
+                    }
+                ]
+            }
+        ]
+    ]
+}

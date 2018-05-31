@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elise", "Elise\Elise.csproj", "{330ACB2C-6AF1-4910-8E80-9C7EFAB4ABB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elise.CLI", "Elise.CLI\Elise.CLI.csproj", "{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elise.GUI", "Elise.GUI\Elise.GUI.csproj", "{BC639F61-2382-4A2E-90FF-B88A38B6AF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330ACB2C-6AF1-4910-8E80-9C7EFAB4ABB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330ACB2C-6AF1-4910-8E80-9C7EFAB4ABB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330ACB2C-6AF1-4910-8E80-9C7EFAB4ABB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330ACB2C-6AF1-4910-8E80-9C7EFAB4ABB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC639F61-2382-4A2E-90FF-B88A38B6AF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC639F61-2382-4A2E-90FF-B88A38B6AF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC639F61-2382-4A2E-90FF-B88A38B6AF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC639F61-2382-4A2E-90FF-B88A38B6AF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

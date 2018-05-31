@@ -1,0 +1,9 @@
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/obj/Debug/Elise.GUI.Properties.Resources.resources
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/bin/Debug/Elise.GUI.exe.config
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/bin/Debug/Elise.GUI.exe.mdb
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/bin/Debug/Elise.GUI.exe
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/obj/Debug/Elise.GUI.exe
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/obj/Debug/Elise.GUI.exe.mdb
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/bin/Debug/Elise.dll
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.GUI/bin/Debug/Elise.dll.mdb

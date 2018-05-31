@@ -1,0 +1,8 @@
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/bin/Debug/Elise.CLI.exe.config
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/bin/Debug/Elise.CLI.exe.mdb
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/bin/Debug/Elise.CLI.exe
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/obj/Debug/Elise.CLI.exe
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/obj/Debug/Elise.CLI.exe.mdb
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/bin/Debug/Elise.dll
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise.CLI/bin/Debug/Elise.dll.mdb

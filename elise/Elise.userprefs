@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A99A5A93-ACFE-4E8A-A65C-9083CCE4A391}|Default">
+  <MonoDevelop.Ide.ItemProperties.Elise.CLI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elise/Rendering/GridRenderer.cs">
+    <Files>
+      <File FileName="Elise/Rendering/GridRenderer.cs" Line="17" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

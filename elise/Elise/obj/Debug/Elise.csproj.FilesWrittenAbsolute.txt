@@ -1,0 +1,5 @@
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise/bin/Debug/Elise.dll.mdb
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise/bin/Debug/Elise.dll
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise/obj/Debug/Elise.dll
+/Users/theschutts/Dropbox/Elise.NET/Elise/Elise/obj/Debug/Elise.dll.mdb
